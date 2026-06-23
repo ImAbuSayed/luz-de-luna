@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Luz de luna
+
+This log tracks the cryptographic history and versioning for the song **Luz de luna** (luz-de-luna).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T06:46:40.187002 | `v1` | `b59db68ad85ec7f6ff99d9f2a1aea27b724b1bed66a9229340ce1c2101b6b2fa` | `88ae894974b69a08a3088eb95eeba0c85c599e9c81ed149a9fe03ed6b09df79b` | `2026-06-23_luz-de-luna-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
