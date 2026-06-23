@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/luz-de-luna/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Luz de luna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luz-de-luna/) |
+| **Get License** | [Request Licensing for Luz de luna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luz-de-luna/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Luz de luna, baila conmigo esta noche
+> Tus caderas hablan sin pronunciar
+> El ritmo nos une en este derroche
+> Dame tu calor, no me dejes escapar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
